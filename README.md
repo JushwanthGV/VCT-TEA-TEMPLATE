@@ -5,10 +5,12 @@ You will find your self in the template in your browser.
 You can search for the type of tea you want or you can select from the category section to check for products.
 
 Credits goes to :
-Tasmiya
-Mary
-Archit
-Jushwanth
-Anjali
+Tasmiya,
+Mary,
+Archit,
+Jushwanth,
+Anjali.
+
+
 
 Thank you 
